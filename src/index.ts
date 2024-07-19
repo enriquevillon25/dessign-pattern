@@ -1,3 +1,3 @@
-import { observer } from "./behavioral/Observer";
+import { observer } from "./behavioral/observer";
 
-observer()
+observer
